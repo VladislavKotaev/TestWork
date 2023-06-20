@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 452ca5a44d2a40a9837cf02bbe1799e2, type: 3}
+  m_Name: HummerRecipe
+  m_EditorClassIdentifier: Assembly-CSharp::Recipe
+  _inputItems:
+  - _item: {fileID: 11400000, guid: a9879fc6d0c8bdf49bbb9d91746df990, type: 2}
+    _count: 1
+  - _item: {fileID: 11400000, guid: c1f5e313de85bfa41bc7eacc477fc4c0, type: 2}
+    _count: 1
+  _outputItems:
+  - _item: {fileID: 11400000, guid: 1132c62f864b6294bbadb966086bcecd, type: 2}
+    _count: 1
+  _time: 3.5
